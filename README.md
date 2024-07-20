@@ -4,4 +4,5 @@ It is a simple straightforward approach to chats as it can possibly be.
 
 Developed using HTML, CSS, PHP, and Javascript only.
 
+MIT License[LICENSE]
 **-John Gabriel T. Pagtalunan**
