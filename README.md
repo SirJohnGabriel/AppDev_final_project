@@ -1,11 +1,16 @@
-## Message.io Description
+# Message.io 
+
+## Description
+
 The following code is a simple website to replicate Facebook Messenger but lighter.
-
 It is a simple straightforward approach to chats as it can possibly be.
-
 Developed using HTML, CSS, PHP, and Javascript only.
 
+## Authors
+
+John Gabriel T. Pagtalunan @j.g.pagtalunan14@gmail.com
+
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
 
-**-John Gabriel T. Pagtalunan**
